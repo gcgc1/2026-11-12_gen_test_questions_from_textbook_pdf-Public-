@@ -8,3 +8,7 @@
 3) in opencode, run: /gen_test_paper_docx n  (n is the chapter number(s), e.g: /gen_test_paper_docx 5) 
 4) Get the resulted test paper docx file at folder 40_test_papers_docx
 5) End
+
+
+**Sample output docx file at folder: **
+40_test_papers_docx
