@@ -10,5 +10,5 @@
 5) End
 
 
-**Sample output docx file at folder: **
+**Sample output docx file at folder:**
 40_test_papers_docx
